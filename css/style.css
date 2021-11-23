@@ -5416,13 +5416,13 @@ button.bg-dark:focus {
   background-color: #fff !important; }
 
 .bg-skill {
-  background-color: #663b86 !important; }
+  background-color: #304D6D !important; }
 
 .bg-skill2 {
-  background-color: #9D84B7 !important; }
+  background-color: #B8BACF !important; }
   
 .bg-counter {
-  background-color: #9D84B7 !important; }
+  background-color: #B8BACF !important; }
   
 .bg-transparent {
   background-color: transparent !important; }
@@ -8143,7 +8143,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 body {
   font-family: "Poppins", Arial, sans-serif;
-  background: #6E85B2;
+  background: #999AC6;
   font-size: 16px;
   line-height: 1.8;
   font-weight: 400;
@@ -8279,7 +8279,7 @@ h1, h2, h3, h4, h5,
   .ftco-navbar-light .navbar-nav > .nav-item .nav-link.active {
     background: transparent;
     background: none;
-    color: #f1fc7c; }
+    color: #222; }
     .ftco-navbar-light .navbar-nav > .nav-item .nav-link.active span:before {
       visibility: visible;
       -webkit-transform: scaleX(1);
@@ -8306,7 +8306,7 @@ h1, h2, h3, h4, h5,
     left: 0;
     top: 0;
     margin-top: -130px;
-    background: #3D56B2 !important;
+    background: #D2D5DD !important;
     -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
     padding: 0 15px; }
@@ -8771,7 +8771,7 @@ h1, h2, h3, h4, h5,
         background: #a0f669;
         color: #fff; }
   .btn.btn-white {
-    background: #5f2bdaf8 !important;
+    background: #304D6D !important;
     border: 1px solid rgb(0, 0, 0) !important;
     color: #ffffff !important; }
     .btn.btn-white:hover {
@@ -8811,7 +8811,7 @@ h1, h2, h3, h4, h5,
     .ftco-about ul.about-info li span {
       width: calc(100% - 130px);
       font-weight: 600;
-      color: #ecdf92; }
+      color: #222; }
       .ftco-about ul.about-info li span:first-child {
         font-weight: 600;
         color: #000000;
@@ -8941,7 +8941,7 @@ h1, h2, h3, h4, h5,
   -webkit-transform-origin: center left;
   -ms-transform-origin: center left;
   transform-origin: center left;
-  border-color: #9918e9 !important; }
+  border-color: #A14A76 !important; }
 
 .progress-circle .progress .progress-right {
   right: 0; }
@@ -8954,7 +8954,7 @@ h1, h2, h3, h4, h5,
   -webkit-transform-origin: center right;
   -ms-transform-origin: center right;
   transform-origin: center right;
-  border-color: #9918e9 !important; }
+  border-color: #A14A76 !important; }
 
 .progress-circle .progress .progress-value {
   position: absolute;
@@ -8962,7 +8962,7 @@ h1, h2, h3, h4, h5,
   left: 0; }
 
 .ftco-hireme {
-  background: #9d84b7;
+  background: #B8BACF;
   padding: 0;
   color: rgba(0, 0, 0, 0.9); }
   .ftco-hireme h2 {
